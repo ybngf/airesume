@@ -1,0 +1,5 @@
+{
+  "name": "AIResume - Otimizador de Currículos",
+  "description": "Uma ferramenta poderosa que utiliza IA para analisar seu currículo em relação a uma vaga específica, fornecendo pontuação, palavras-chave faltantes e sugestões de melhoria.",
+  "requestFramePermissions": []
+}
